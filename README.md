@@ -64,7 +64,7 @@
     <code><img height="30" width="30" src="https://user-images.githubusercontent.com/55103824/126756311-91b12796-0b41-4628-960d-79fd1a0296e4.png"/></code>
 </a>
 <a href="https://x.com/IamSimmm" target="_blank">
-    <code><img height="30" width="30" src=""/></code>![new-2023-twitter-logo-x-icon-design_1017-45418](https://github.com/user-attachments/assets/29642594-de11-41f9-877b-57cbaf76156b)
+    <code><img height="30" width="30" src=""/></code>
 
 </a>
 

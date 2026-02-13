@@ -72,7 +72,7 @@
     <code><img height="30" width="30" src="https://github.com/sd00529/sd00529/blob/main/Assets/HackerRank_Icon-1000px.png"/></code>
 </a>
 <a href="https://open.spotify.com/user/gpp4n3rmv06u01ngtfxhg9c22?si=267f5f905c8a4c33" target="_blank">
-    <code><img height="30" width="30" src="https://user-images.githubusercontent.com/55103824/126758154-212e910c-ab61-4bac-8a77-1d6aef41570c.png"/></code>
+    <code><img height="30" width="30" src="https://github.com/sd00529/sd00529/blob/main/Assets/Spotify_App_Logo.svg.png"/></code>
 </a>
 
 

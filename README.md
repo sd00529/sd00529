@@ -64,8 +64,10 @@
     <code><img height="30" width="30" src="https://user-images.githubusercontent.com/55103824/126756311-91b12796-0b41-4628-960d-79fd1a0296e4.png"/></code>
 </a>
 <a href="https://x.com/IamSimmm" target="_blank">
-    <code><img height="30" width="30" src="https://user-images.githubusercontent.com/55103824/126756483-bf67a93e-3882-4abc-8d7d-beb915fed64b.png"/></code>
+    <code><img height="30" width="30" src=""/></code>![new-2023-twitter-logo-x-icon-design_1017-45418](https://github.com/user-attachments/assets/29642594-de11-41f9-877b-57cbaf76156b)
+
 </a>
+
 <a href="https://www.hackerrank.com/profile/mailme_simrandas" target="_blank">
     <code><img height="30" width="30" src="https://user-images.githubusercontent.com/55103824/126756878-f8aee60b-3dd0-404c-97e7-d80a532b9cd5.png"/></code>
 </a>

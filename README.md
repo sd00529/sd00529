@@ -64,7 +64,7 @@
     <code><img height="30" width="30" src="https://user-images.githubusercontent.com/55103824/126756311-91b12796-0b41-4628-960d-79fd1a0296e4.png"/></code>
 </a>
 <a href="https://x.com/IamSimmm" target="_blank">
-    <code><img height="30" width="30" src="https://user-images.githubusercontent.com/55103824/126756483-bf67a93e-3882-4abc-8d7d-beb915fed64b.png"/></code>
+    <code><img height="30" width="30" src="https://www.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_57642948.htm#fromView=keyword&page=1&position=0&uuid=ff561085-fe08-459b-b0f4-ad1f75edc46e&query=X+logo"/></code>
 </a>
 <a href="https://www.hackerrank.com/profile/mailme_simrandas" target="_blank">
     <code><img height="30" width="30" src="https://user-images.githubusercontent.com/55103824/126756878-f8aee60b-3dd0-404c-97e7-d80a532b9cd5.png"/></code>

@@ -66,7 +66,7 @@
 <a href="https://x.com/IamSimmm" target="_blank">
     <code><img height="30" width="30" src="https://user-images.githubusercontent.com/55103824/126756483-bf67a93e-3882-4abc-8d7d-beb915fed64b.png"/></code>
 </a>
-<a href="https://www.hackerrank.com/mailme_samarpan1?hr_r=1" target="_blank">
+<a href="https://www.hackerrank.com/profile/mailme_simrandas" target="_blank">
     <code><img height="30" width="30" src="https://user-images.githubusercontent.com/55103824/126756878-f8aee60b-3dd0-404c-97e7-d80a532b9cd5.png"/></code>
 </a>
 <a href="https://open.spotify.com/user/gpp4n3rmv06u01ngtfxhg9c22?si=267f5f905c8a4c33" target="_blank">

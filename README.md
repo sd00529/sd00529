@@ -64,7 +64,7 @@
     <code><img height="30" width="30" src="https://user-images.githubusercontent.com/55103824/126756311-91b12796-0b41-4628-960d-79fd1a0296e4.png"/></code>
 </a>
 <a href="https://x.com/IamSimmm" target="_blank">
-    <code><img height="30" width="30" src=""/></code>
+    <code><img height="30" width="30" src="![Image](https://github.com/user-attachments/assets/266101c1-2c36-4d5f-9ddb-25e50c54f182)"/></code>
 
 </a>
 

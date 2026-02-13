@@ -59,7 +59,7 @@
 <code><img height="40" width="40" src="https://user-images.githubusercontent.com/55103824/126679639-f8180641-5ceb-44b2-94e0-f9de13ddd7d6.png"></code>
 
 
-<code><img height="40" width="40" src="https://github.com/sd00529/sd00529/blob/main/1711355118921.png"></code>
+<code><img height="40" width="40" src="https://user-images.githubusercontent.com/55103824/126680290-069d92a9-a59c-4cb9-8e91-01bcc93501b3.jpeg"></code>
 <code><img height="40" width="40" src="https://user-images.githubusercontent.com/55103824/126698716-ca8c9f9f-d269-4606-b0f9-ca7c783530d2.jpg"></code>
 <code><img height="40" width="40" src="https://user-images.githubusercontent.com/55103824/126698426-3dba5bea-1e18-4130-ab51-5d74c1ca7b12.png"></code>
 

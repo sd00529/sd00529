@@ -64,12 +64,12 @@
     <code><img height="30" width="30" src="https://user-images.githubusercontent.com/55103824/126756311-91b12796-0b41-4628-960d-79fd1a0296e4.png"/></code>
 </a>
 <a href="https://x.com/IamSimmm" target="_blank">
-    <code><img height="30" width="30" src="![Image](https://github.com/user-attachments/assets/266101c1-2c36-4d5f-9ddb-25e50c54f182)"/></code>
+    <code><img height="30" width="30" src="https://github.com/sd00529/sd00529/blob/main/Assets/new-2023-twitter-logo-x-icon-design_1017-45418.jpg"/></code>
 
 </a>
 
 <a href="https://www.hackerrank.com/profile/mailme_simrandas" target="_blank">
-    <code><img height="30" width="30" src="https://user-images.githubusercontent.com/55103824/126756878-f8aee60b-3dd0-404c-97e7-d80a532b9cd5.png"/></code>
+    <code><img height="30" width="30" src="https://github.com/sd00529/sd00529/blob/main/Assets/HackerRank_Icon-1000px.png"/></code>
 </a>
 <a href="https://open.spotify.com/user/gpp4n3rmv06u01ngtfxhg9c22?si=267f5f905c8a4c33" target="_blank">
     <code><img height="30" width="30" src="https://user-images.githubusercontent.com/55103824/126758154-212e910c-ab61-4bac-8a77-1d6aef41570c.png"/></code>

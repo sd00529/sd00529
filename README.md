@@ -30,7 +30,7 @@
 
 
 - 🔭 I'm a **Second Year Undergrad** with great interest towards **Software Development**
-- 😎 I've passionately worked with techs like **Deep Learning and Android App Development**
+- 😎 I've passionately worked with techs like **Android App Development**
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝙰𝚗𝚍𝚛𝚘𝚒𝚍 Development**
 - 🤔 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑 **𝙸𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙𝚜**
 - 💬 Wana have a conversation? Let's Connect, I'd love to hear from you!!

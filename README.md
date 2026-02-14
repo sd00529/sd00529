@@ -35,7 +35,7 @@
 - 🤔 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑 **𝙸𝚗𝚝𝚎𝚛𝚗𝚜𝚑𝚒𝚙𝚜**
 - 💬 Wana have a conversation? Let's Connect, I'd love to hear from you!!
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **She/her**
-- ⚡️Challenge : *Trust me, I'll throw you a pizza treat if you can beat me in Tatkar <img height="40" width="40" src="https://github.com/sd00529/sd00529/blob/main/Assets/png-clipart-ghungroo-percussion-bell-music-khartal-dholak-bracelet-united-states-thumbnail.png" style="vertical-align: middle;"> within 10 minutes.
+- ⚡️Challenge : *Trust me, I'll throw you a pizza treat if you can beat me in Tatkar <img height="40" width="40" src="https://github.com/sd00529/sd00529/blob/main/Assets/ghungroo.png" style="vertical-align: middle;"> within 10 minutes.
 
 
 <br/>
